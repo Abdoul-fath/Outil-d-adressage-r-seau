@@ -17,7 +17,4 @@ Network Addressing Tool est un projet Python permettant de calculer les informat
 - Python 3.x
 - Bibliothèque `ipaddress` (pour la gestion des adresses IP)
 
-## Installation
-1. Clonez ce dépôt : 
-   ```bash
-   git clone https://github.com/votre-utilisateur/nom-du-projet.git
+
